@@ -1,12 +1,12 @@
 ## Hi, I'm Paul 👽🛸
 
 I am a Data Scientist and Software Developer,
-with a deep interest in how computer systems can extend human cognition.
-My work focuses on intuitive visualizations of complex data and the automation of challenging processes.
+with a deep interest in how computer systems can help human beings extend their abilities and cognition.
 
-I enjoy crafting visualizations that not only reveal complexity but also communicate it in a way that is meaningful to stakeholders.
-Beyond this, I explore interface design to enhance how users interact with and understand information.
-Machine learning fascinates me for its ability to uncover hidden patterns that traditional data analysis might miss.
+My interests:
+* intuitive visualizations of complex data 📈
+* web-development and interface design 🌐
+* machine learning to extend data analysis and automate tedious processes 🤖
 
 ### My projects:
 * [CTx Health Tracker](https://github.com/PaulErpen/ctx-fitness-analysis-showcase) - A dashboard and data analysis pipeline for a medical study at MedUni Vienna
