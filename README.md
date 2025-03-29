@@ -1,14 +1,13 @@
 ## Hi, I'm Paul 👽🛸
 
-I am a Data Scientist and Software Developer,
-with a deep interest in how computer systems can help human beings extend their abilities and cognition.
+I am a Data Scientist and Software Developer with a deep interest in how computer systems can help humans extend their abilities and cognition.
 
 ### My interests:
-* intuitive visualizations of complex data 📈
-* web-development and interface design 🌐
-* machine learning to extend data analysis and automate tedious processes 🤖
+* Intuitive visualizations of complex data 📈
+* Web development and interface design 🌐
+* Machine learning for enhancing data analysis and automating tedious processes 🤖
 
 ### My projects:
 * [CTx Health Tracker](https://github.com/PaulErpen/ctx-fitness-analysis-showcase) - A dashboard and data analysis pipeline for a medical study at MedUni Vienna
-* [Gaussian Splatting Evaluation Tool](https://github.com/PaulErpen/eval-viewer) - An evaluation software of Gaussian Splatting models for my masters thesis
+* [Gaussian Splatting Evaluation Tool](https://github.com/PaulErpen/eval-viewer) - valuation software for Gaussian Splatting models as part of my master's thesis
 * [gsplat-trainer](https://github.com/PaulErpen/gsplat-trainer) - A custom CLI wrapper for the [gsplat](https://github.com/nerfstudio-project/gsplat) framework
