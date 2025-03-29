@@ -3,7 +3,7 @@
 I am a Data Scientist and Software Developer,
 with a deep interest in how computer systems can help human beings extend their abilities and cognition.
 
-My interests:
+### My interests:
 * intuitive visualizations of complex data 📈
 * web-development and interface design 🌐
 * machine learning to extend data analysis and automate tedious processes 🤖
